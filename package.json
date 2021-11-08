@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-toolkit",
+  "name": "react-hook-redux-toolkit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
